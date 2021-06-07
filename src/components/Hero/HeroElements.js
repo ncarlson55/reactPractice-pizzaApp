@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import ImgBg from '../../images/chad-montano-MqT0asuoIcU-unsplash.jpg';
+import ImgBg from '../../images/heroPizza.jpg';
 
 export const HeroContainer = styled.div`
   background: linear-gradient( 

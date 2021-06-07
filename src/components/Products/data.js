@@ -1,3 +1,7 @@
+import product1 from '../../images/supremePizza.jpg';
+import product2 from '../../images/pineapplePizza.jpg';
+import product3 from '../../images/veggiePizza.jpg';
+
 export const productData = [
   {
     img: product1,
@@ -22,5 +26,5 @@ export const productData = [
     desc: 'Marinara sauce, Basil, Red Peppers, Black Olives, Roma Tomotoes, and Pesto',
     price: '$14.99',
     button: 'Add to Cart',
-  }
+  },
 ];
